@@ -1,0 +1,141 @@
+#top-section {
+     padding-top: 150px;
+     padding-bottom: 0;
+     overflow: hidden;
+     &::before {
+          position: absolute;
+          content: "";
+          background-color: $red;
+          width: 110%;
+          height: 122%;
+          transform: rotate(62deg);
+          right: -20%;
+          bottom: 79%;
+     }
+     .container {
+          .left-title-details {
+               h1 {
+                    font-size: 55px;
+                    font-weight: 600;
+                    line-height: 1;
+                    
+               }
+               p {
+                    font-size: 30px;
+                    font-weight: 300;
+                    padding: 20px 0 35px;
+                    max-width: 475px;
+                    line-height: 1.2;
+               }
+          }
+          .right-side-iphone-video {
+               .video-container-bg {
+                    video {
+                         background-image: url(../images/iPhone-video-bg.png);
+                         background-position: center;
+                         background-size: contain;
+                         background-repeat: no-repeat;
+                         width: 90%;
+                         padding: 18%;
+
+                    }
+               }
+          }
+     }
+}
+
+#as-featured {
+     overflow: hidden;
+     padding-top: 100px;
+     &::before {
+          position: absolute;
+          content: "";
+          width: 200%;
+          height: 30%;
+          background-color: #DEECFF;
+          transform: rotate(20deg);
+          top: 50%;
+          left: -20%;
+     }
+     .container-1 {
+          .featured-title {
+               padding-bottom: 30px;
+          }
+          .featured-icons-wrap {
+               padding: 20px 0;
+               .featured-icon {
+                    text-align: center;
+                    img {
+                         max-width: 125px;
+                    }
+               }
+          }
+     }
+     .what-is-waffle-container {
+          padding: 200px 0;
+          .what-is-waffle-details {
+               padding-left: 50px;
+               h2 {
+                    font-size: 36px;
+                    line-height: 1.3;
+                    padding-bottom: 30px;
+               }
+               .waffle-blurb-container {
+                    padding: 15px 0;
+                    display: flex;
+                    .waffle-blurb-img {
+                         width: 45px;
+                         margin-right: 25px;
+                    }
+                    .waffle-blurb-content {
+                         h4 {
+                              font-size: 16px;
+                              font-weight: 600;
+                              color: #272727;
+                              padding-bottom: 7px;
+                         }
+                         p {
+                              font-size: 14px;
+                         }
+                    }
+               }
+               .mhs_btn_wrapper {
+                    padding-top: 30px;
+               }
+          }
+     }
+     .container-3 {
+          .how-it-works-blurb-wrap {
+               padding-top: 30px;
+               .how-it-works-blurb {
+                    display: flex;
+                    align-items: center;
+                    padding: 30px 40px;
+                    transition: all .3s ease-in-out;
+                    border-radius: 15px;
+                    .works-blurb-image {
+                         width: 50px;
+                         margin-right: 25px;
+                    }
+                    .works-blurb-content {
+                         font-weight: bold;
+                         line-height: 1.1;
+                    }
+                    &:hover {
+                         box-shadow: 0 0 20px 5px rgba(0,0,0,.1);
+                    }
+               }
+          }
+     }
+}
+#hungry-with-btn {
+     padding: 100px 0;
+     .hungry-title-details {
+          h2 {
+               font-size: 46px;
+          }
+          p {
+               font-size: 18px;
+          }
+     }
+}

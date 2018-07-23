@@ -1,0 +1,113 @@
+#your-resturant-busier {
+     padding: 200px 0;
+     .busier-image {
+          position: relative;
+          .banner-shape {
+               position: absolute;
+               width: 100px;
+               top: 40px;
+               right: 0;
+               z-index: -1;
+          }
+     }
+     .busier-details {
+          text-align: right;
+          h1 {
+               font-size: 45px;
+               line-height: 1em;
+          }
+          p {
+               font-size: 30px;
+               font-weight: 300;
+               padding: 20px 0 35px;
+               max-width: 360px;
+               line-height: 1.2;
+               margin-left: auto;
+          }
+          .mhs_btn_wrap {
+               display: flex;
+               justify-content: space-between;
+               flex-wrap: wrap;
+          }
+     }
+}
+
+
+#what-is-waffle {
+     .left-waffle-details {
+          padding: 100px 0;
+          h2 {
+               font-size: 36px;
+               line-height: 1.2;
+               padding-bottom: 20px;
+          }
+          p {
+               padding-bottom: 40px;
+          }
+     }
+     .right-waffle-bg {
+          background-image: url(../images/tables.jpg);
+          background-position: center;
+          background-size: cover;
+     }
+}
+
+#benifits {
+     .container.container-1 {
+          padding-bottom: 60px;
+     }
+     .container.container-2 {
+          .col {
+               .benifits-blurb-container {
+                    .bb-image {
+                         text-align: center;
+                         margin-bottom: 30px;
+                         img {
+                              max-height: 70px;
+                         }
+                    }
+                    .bb-content {
+                         h4 {
+                              font-weight: 700;
+                              text-align: center;
+                              color: #000;
+                              padding-bottom: 10px;
+                         }
+                         p {
+                              line-height: 1.2em;
+                              font-size: 14px;
+                         }
+                    }
+               }
+          }
+     }
+}
+
+#pricing-section {
+	background-color: #f6f6f6;
+	padding: 100px 0;
+}
+
+#get-demo {
+     .get-demo-details {
+          h2 {
+               font-size: 45px;
+               line-height: 1;
+          }
+          .subtitle {
+               font-size: 18px;
+               padding: 30px 0 35px;
+               line-height: 1.4;
+               font-weight: 300;
+               max-width: 420px;
+          }
+          .mhs_btn_wrap .mhs_btn_red {
+               margin-right: 30px;
+          }
+     }
+     .get-demo-image {
+          img {
+               max-width: 400px;
+          }
+     }
+}

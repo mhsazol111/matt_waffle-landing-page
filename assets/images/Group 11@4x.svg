@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="700" height="1180">
+	<path fill="rgb(255,57,90)" stroke="none" transform="matrix(4 0 0 4 286.4 93.2002)" d="M0 14.9C0 6.7 6.7 0 14.9 0C23.1 0 29.8 6.7 29.8 14.9C29.8 23.1 23.1 29.8 14.9 29.8C6.7 29.8 0 23.1 0 14.9ZM3.3 14.9C3.3 21.3 8.5 26.5 14.9 26.5C21.3 26.5 26.5 21.3 26.5 14.9C26.5 8.5 21.3 3.3 14.9 3.3C8.5 3.3 3.3 8.5 3.3 14.9Z" fill-rule="evenodd"/>
+	<defs>
+		<linearGradient id="gradient_0" gradientUnits="userSpaceOnUse" x1="-2.9528003" y1="20.200001" x2="70" y2="20.200001">
+			<stop offset="0" stop-color="rgb(235,11,76)"/>
+			<stop offset="0.0572052" stop-color="rgb(236,17,77)"/>
+			<stop offset="0.12098694" stop-color="rgb(238,22,78)"/>
+			<stop offset="0.19023132" stop-color="rgb(239,27,79)"/>
+			<stop offset="0.26383972" stop-color="rgb(240,31,80)"/>
+			<stop offset="0.34072876" stop-color="rgb(242,34,81)"/>
+			<stop offset="0.41981506" stop-color="rgb(244,38,82)"/>
+			<stop offset="0.5" stop-color="rgb(245,41,83)"/>
+			<stop offset="0.58016968" stop-color="rgb(247,44,84)"/>
+			<stop offset="0.65925598" stop-color="rgb(248,47,85)"/>
+			<stop offset="0.73614502" stop-color="rgb(250,49,87)"/>
+			<stop offset="0.80975342" stop-color="rgb(251,52,88)"/>
+			<stop offset="0.8789978" stop-color="rgb(253,54,88)"/>
+			<stop offset="0.94277954" stop-color="rgb(254,55,89)"/>
+			<stop offset="1" stop-color="rgb(255,57,90)"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_0)" stroke="none" transform="matrix(4 0 0 4 208 71.2002)" d="M34.7 0C53.3 0 68.8 18 69.4 18.8L70 19.3L70 21.2L69.5 21.7C68.9 22.5 53.3 40.4 34.7 40.4C16.1 40.4 0.8 22.4 0.2 21.6L0 21.1L0 19.2L0.2 18.7C0.9 17.9 16.1 0 34.7 0ZM3.2 20.1C6.3 23.5 19.6 37 34.6 37C49.6 37 62.9 23.6 66 20.2C62.9 16.9 49.6 3.4 34.6 3.4C19.6 3.4 6.3 16.8 3.2 20.1Z" fill-rule="evenodd"/>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="0" y="11.669001">
+			B
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="8.9809999" y="11.669001">
+			e
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="17.038" y="11.669001">
+			n
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="24.941" y="11.669001">
+			e
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="32.998001" y="11.669001">
+			f
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="37.149002" y="11.669001">
+			i
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="40.474003" y="11.669001">
+			t
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="44.765003" y="11.669001">
+			
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="48.566002" y="11.669001">
+			f
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="52.717003" y="11.669001">
+			r
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="57.512001" y="11.669001">
+			o
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="65.695" y="11.669001">
+			m
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="77.181999" y="11.669001">
+			
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="80.983002" y="11.669001">
+			d
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="89.208" y="11.669001">
+			a
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="96.775002" y="11.669001">
+			i
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="100.1" y="11.669001">
+			l
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="103.425" y="11.669001">
+			y
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="110.46" y="11.669001">
+			
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="114.261" y="11.669001">
+			e
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="122.318" y="11.669001">
+			x
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="129.311" y="11.669001">
+			p
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="137.494" y="11.669001">
+			o
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="145.677" y="11.669001">
+			s
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="152.362" y="11.669001">
+			u
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="160.25101" y="11.669001">
+			r
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="165.04601" y="11.669001">
+			e
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="173.10301" y="11.669001">
+			
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="0" y="25.669001">
+			t
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="4.2910004" y="25.669001">
+			o
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="12.474001" y="25.669001">
+			
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="16.275002" y="25.669001">
+			t
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="20.566002" y="25.669001">
+			h
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="28.469002" y="25.669001">
+			o
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="36.652" y="25.669001">
+			u
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="44.541" y="25.669001">
+			s
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="51.226002" y="25.669001">
+			a
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="58.793003" y="25.669001">
+			n
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="66.696007" y="25.669001">
+			d
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="74.921005" y="25.669001">
+			s
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="81.606003" y="25.669001">
+			
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="85.407005" y="25.669001">
+			o
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="93.590004" y="25.669001">
+			f
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="97.741005" y="25.669001">
+			
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="101.54201" y="25.669001">
+			l
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="104.867" y="25.669001">
+			o
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="113.05" y="25.669001">
+			c
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="120.16901" y="25.669001">
+			a
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="127.73601" y="25.669001">
+			l
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="131.061" y="25.669001">
+			
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="134.862" y="25.669001">
+			d
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="143.08701" y="25.669001">
+			i
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="146.412" y="25.669001">
+			n
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="154.315" y="25.669001">
+			e
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="162.37201" y="25.669001">
+			r
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="167.16701" y="25.669001">
+			s
+	</text>
+	<text fill="rgb(39,39,39)" stroke="none" transform="matrix(4 0 0 4 0 732)" font-size="14" font-family="Proxima Nova, Proxima Nova Rg" x="173.85201" y="25.669001">
+			.
+	</text>
+	<text fill="rgb(0,0,0)" stroke="none" transform="matrix(4 0 0 4 16 520)" font-size="18" font-weight="bold" font-family="Proxima Nova, Proxima Nova Rg" x="35.662422" y="15.503">
+			E
+	</text>
+	<text fill="rgb(0,0,0)" stroke="none" transform="matrix(4 0 0 4 16 520)" font-size="18" font-weight="bold" font-family="Proxima Nova, Proxima Nova Rg" x="46.413567" y="15.503">
+			X
+	</text>
+	<text fill="rgb(0,0,0)" stroke="none" transform="matrix(4 0 0 4 16 520)" font-size="18" font-weight="bold" font-family="Proxima Nova, Proxima Nova Rg" x="58.69471" y="15.503">
+			P
+	</text>
+	<text fill="rgb(0,0,0)" stroke="none" transform="matrix(4 0 0 4 16 520)" font-size="18" font-weight="bold" font-family="Proxima Nova, Proxima Nova Rg" x="70.201851" y="15.503">
+			O
+	</text>
+	<text fill="rgb(0,0,0)" stroke="none" transform="matrix(4 0 0 4 16 520)" font-size="18" font-weight="bold" font-family="Proxima Nova, Proxima Nova Rg" x="84.228996" y="15.503">
+			S
+	</text>
+	<text fill="rgb(0,0,0)" stroke="none" transform="matrix(4 0 0 4 16 520)" font-size="18" font-weight="bold" font-family="Proxima Nova, Proxima Nova Rg" x="95.28614" y="15.503">
+			U
+	</text>
+	<text fill="rgb(0,0,0)" stroke="none" transform="matrix(4 0 0 4 16 520)" font-size="18" font-weight="bold" font-family="Proxima Nova, Proxima Nova Rg" x="108.75528" y="15.503">
+			R
+	</text>
+	<text fill="rgb(0,0,0)" stroke="none" transform="matrix(4 0 0 4 16 520)" font-size="18" font-weight="bold" font-family="Proxima Nova, Proxima Nova Rg" x="120.58643" y="15.503">
+			E
+	</text>
+	<defs>
+		<linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="-0.13920344" y1="7.4499998" x2="3.3" y2="7.4499998">
+			<stop offset="0" stop-color="rgb(235,11,76)"/>
+			<stop offset="0.0572052" stop-color="rgb(236,17,77)"/>
+			<stop offset="0.12098694" stop-color="rgb(238,22,78)"/>
+			<stop offset="0.19023132" stop-color="rgb(239,27,79)"/>
+			<stop offset="0.26383972" stop-color="rgb(240,31,80)"/>
+			<stop offset="0.34072876" stop-color="rgb(242,34,81)"/>
+			<stop offset="0.41981506" stop-color="rgb(244,38,82)"/>
+			<stop offset="0.5" stop-color="rgb(245,41,83)"/>
+			<stop offset="0.58016968" stop-color="rgb(247,44,84)"/>
+			<stop offset="0.65925598" stop-color="rgb(248,47,85)"/>
+			<stop offset="0.73614502" stop-color="rgb(250,49,87)"/>
+			<stop offset="0.80975342" stop-color="rgb(251,52,88)"/>
+			<stop offset="0.8789978" stop-color="rgb(253,54,88)"/>
+			<stop offset="0.94277954" stop-color="rgb(254,55,89)"/>
+			<stop offset="1" stop-color="rgb(255,57,90)"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_1)" stroke="none" transform="matrix(4 0 0 4 345.2 1.2002)" d="M0 0L3.3 0L3.3 14.9L0 14.9L0 0Z"/>
+	<defs>
+		<linearGradient id="gradient_2" gradientUnits="userSpaceOnUse" x1="-0.13920344" y1="7.9499998" x2="3.3" y2="7.9499998">
+			<stop offset="0" stop-color="rgb(235,11,76)"/>
+			<stop offset="0.0572052" stop-color="rgb(236,17,77)"/>
+			<stop offset="0.12098694" stop-color="rgb(238,22,78)"/>
+			<stop offset="0.19023132" stop-color="rgb(239,27,79)"/>
+			<stop offset="0.26383972" stop-color="rgb(240,31,80)"/>
+			<stop offset="0.34072876" stop-color="rgb(242,34,81)"/>
+			<stop offset="0.41981506" stop-color="rgb(244,38,82)"/>
+			<stop offset="0.5" stop-color="rgb(245,41,83)"/>
+			<stop offset="0.58016968" stop-color="rgb(247,44,84)"/>
+			<stop offset="0.65925598" stop-color="rgb(248,47,85)"/>
+			<stop offset="0.73614502" stop-color="rgb(250,49,87)"/>
+			<stop offset="0.80975342" stop-color="rgb(251,52,88)"/>
+			<stop offset="0.8789978" stop-color="rgb(253,54,88)"/>
+			<stop offset="0.94277954" stop-color="rgb(254,55,89)"/>
+			<stop offset="1" stop-color="rgb(255,57,90)"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_2)" stroke="none" transform="matrix(4 0 0 4 345.2 271.6)" d="M0 0L3.3 0L3.3 15.9L0 15.9L0 0Z"/>
+	<defs>
+		<linearGradient id="gradient_3" gradientUnits="userSpaceOnUse" x1="-0.63278162" y1="1.6501008" x2="15.000916" y2="1.6501008">
+			<stop offset="0" stop-color="rgb(235,11,76)"/>
+			<stop offset="0.0572052" stop-color="rgb(236,17,77)"/>
+			<stop offset="0.12098694" stop-color="rgb(238,22,78)"/>
+			<stop offset="0.19023132" stop-color="rgb(239,27,79)"/>
+			<stop offset="0.26383972" stop-color="rgb(240,31,80)"/>
+			<stop offset="0.34072876" stop-color="rgb(242,34,81)"/>
+			<stop offset="0.41981506" stop-color="rgb(244,38,82)"/>
+			<stop offset="0.5" stop-color="rgb(245,41,83)"/>
+			<stop offset="0.58016968" stop-color="rgb(247,44,84)"/>
+			<stop offset="0.65925598" stop-color="rgb(248,47,85)"/>
+			<stop offset="0.73614502" stop-color="rgb(250,49,87)"/>
+			<stop offset="0.80975342" stop-color="rgb(251,52,88)"/>
+			<stop offset="0.8789978" stop-color="rgb(253,54,88)"/>
+			<stop offset="0.94277954" stop-color="rgb(254,55,89)"/>
+			<stop offset="1" stop-color="rgb(255,57,90)"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_3)" stroke="none" transform="matrix(2.82823 2.82863 -2.82863 2.82823 449.514 245.243)" d="M0 0L15.0009 0L15.0009 3.3002L0 3.3002L0 0Z"/>
+	<defs>
+		<linearGradient id="gradient_4" gradientUnits="userSpaceOnUse" x1="-0.65804636" y1="1.6499841" x2="15.599851" y2="1.6499841">
+			<stop offset="0" stop-color="rgb(235,11,76)"/>
+			<stop offset="0.0572052" stop-color="rgb(236,17,77)"/>
+			<stop offset="0.12098694" stop-color="rgb(238,22,78)"/>
+			<stop offset="0.19023132" stop-color="rgb(239,27,79)"/>
+			<stop offset="0.26383972" stop-color="rgb(240,31,80)"/>
+			<stop offset="0.34072876" stop-color="rgb(242,34,81)"/>
+			<stop offset="0.41981506" stop-color="rgb(244,38,82)"/>
+			<stop offset="0.5" stop-color="rgb(245,41,83)"/>
+			<stop offset="0.58016968" stop-color="rgb(247,44,84)"/>
+			<stop offset="0.65925598" stop-color="rgb(248,47,85)"/>
+			<stop offset="0.73614502" stop-color="rgb(250,49,87)"/>
+			<stop offset="0.80975342" stop-color="rgb(251,52,88)"/>
+			<stop offset="0.8789978" stop-color="rgb(253,54,88)"/>
+			<stop offset="0.94277954" stop-color="rgb(254,55,89)"/>
+			<stop offset="1" stop-color="rgb(255,57,90)"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_4)" stroke="none" transform="matrix(2.82843 2.82843 -2.82843 2.82843 221.799 32.4512)" d="M0 0L15.5999 0L15.5999 3.29997L0 3.29997L0 0Z"/>
+	<defs>
+		<linearGradient id="gradient_5" gradientUnits="userSpaceOnUse" x1="-0.1392021" y1="7.7999253" x2="3.2999682" y2="7.7999253">
+			<stop offset="0" stop-color="rgb(235,11,76)"/>
+			<stop offset="0.0572052" stop-color="rgb(236,17,77)"/>
+			<stop offset="0.12098694" stop-color="rgb(238,22,78)"/>
+			<stop offset="0.19023132" stop-color="rgb(239,27,79)"/>
+			<stop offset="0.26383972" stop-color="rgb(240,31,80)"/>
+			<stop offset="0.34072876" stop-color="rgb(242,34,81)"/>
+			<stop offset="0.41981506" stop-color="rgb(244,38,82)"/>
+			<stop offset="0.5" stop-color="rgb(245,41,83)"/>
+			<stop offset="0.58016968" stop-color="rgb(247,44,84)"/>
+			<stop offset="0.65925598" stop-color="rgb(248,47,85)"/>
+			<stop offset="0.73614502" stop-color="rgb(250,49,87)"/>
+			<stop offset="0.80975342" stop-color="rgb(251,52,88)"/>
+			<stop offset="0.8789978" stop-color="rgb(253,54,88)"/>
+			<stop offset="0.94277954" stop-color="rgb(254,55,89)"/>
+			<stop offset="1" stop-color="rgb(255,57,90)"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_5)" stroke="none" transform="matrix(2.82843 2.82843 -2.82843 2.82843 482.321 32.417)" d="M0 0L3.29997 0L3.29997 15.5999L0 15.5999L0 0Z"/>
+	<defs>
+		<linearGradient id="gradient_6" gradientUnits="userSpaceOnUse" x1="-0.1392021" y1="7.499928" x2="3.2999682" y2="7.499928">
+			<stop offset="0" stop-color="rgb(235,11,76)"/>
+			<stop offset="0.0572052" stop-color="rgb(236,17,77)"/>
+			<stop offset="0.12098694" stop-color="rgb(238,22,78)"/>
+			<stop offset="0.19023132" stop-color="rgb(239,27,79)"/>
+			<stop offset="0.26383972" stop-color="rgb(240,31,80)"/>
+			<stop offset="0.34072876" stop-color="rgb(242,34,81)"/>
+			<stop offset="0.41981506" stop-color="rgb(244,38,82)"/>
+			<stop offset="0.5" stop-color="rgb(245,41,83)"/>
+			<stop offset="0.58016968" stop-color="rgb(247,44,84)"/>
+			<stop offset="0.65925598" stop-color="rgb(248,47,85)"/>
+			<stop offset="0.73614502" stop-color="rgb(250,49,87)"/>
+			<stop offset="0.80975342" stop-color="rgb(251,52,88)"/>
+			<stop offset="0.8789978" stop-color="rgb(253,54,88)"/>
+			<stop offset="0.94277954" stop-color="rgb(254,55,89)"/>
+			<stop offset="1" stop-color="rgb(255,57,90)"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_6)" stroke="none" transform="matrix(2.82843 2.82843 -2.82843 2.82843 254.666 245.36)" d="M0 0L3.29997 0L3.29997 14.9999L0 14.9999L0 0Z"/>
+	<defs>
+		<linearGradient id="gradient_7" gradientUnits="userSpaceOnUse" x1="-0.65067065" y1="7.6999998" x2="15.424999" y2="7.6999998">
+			<stop offset="0" stop-color="rgb(235,11,76)"/>
+			<stop offset="0.0572052" stop-color="rgb(236,17,77)"/>
+			<stop offset="0.12098694" stop-color="rgb(238,22,78)"/>
+			<stop offset="0.19023132" stop-color="rgb(239,27,79)"/>
+			<stop offset="0.26383972" stop-color="rgb(240,31,80)"/>
+			<stop offset="0.34072876" stop-color="rgb(242,34,81)"/>
+			<stop offset="0.41981506" stop-color="rgb(244,38,82)"/>
+			<stop offset="0.5" stop-color="rgb(245,41,83)"/>
+			<stop offset="0.58016968" stop-color="rgb(247,44,84)"/>
+			<stop offset="0.65925598" stop-color="rgb(248,47,85)"/>
+			<stop offset="0.73614502" stop-color="rgb(250,49,87)"/>
+			<stop offset="0.80975342" stop-color="rgb(251,52,88)"/>
+			<stop offset="0.8789978" stop-color="rgb(253,54,88)"/>
+			<stop offset="0.94277954" stop-color="rgb(254,55,89)"/>
+			<stop offset="1" stop-color="rgb(255,57,90)"/>
+		</linearGradient>
+	</defs>
+	<path fill="url(#gradient_7)" stroke="none" transform="matrix(4 0 0 4 320.8 120.8)" d="M14.8 4.6C14.2 5.8 13 6.6 11.5 6.6C9.5 6.6 7.8 5 7.8 2.9C7.8 1.8 8.3 0.8 9.1 0.1C8.6 0 8.2 0 7.7 0C3.4 0 0 3.5 0 7.7C0 12 3.5 15.4 7.7 15.4C11.9 15.4 15.4 11.9 15.4 7.7C15.5 6.7 15.3 5.6 14.8 4.6Z"/>
+</svg>

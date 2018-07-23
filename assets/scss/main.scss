@@ -1,0 +1,16 @@
+//Importing Components
+@import 'components/_reset';
+@import 'components/_fonts';
+@import 'components/_global';
+@import 'components/_grid';
+@import 'components/_header';
+@import 'components/_footer';
+@import 'components/_mixins';
+
+
+//Importing Pages
+@import 'parts/_home';
+@import 'parts/_business';
+
+
+@import 'components/_responsive';
